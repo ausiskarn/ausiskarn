@@ -1,13 +1,12 @@
 
 ![Design and Development](https://github.com/ausiskarn/ausiskarn/blob/main/cc.png?raw=true)
 
-### Hi there 👋, I'm Aashish karn
-#### Design and Development
+# Aashish karn
  I am a full stack developer and also in field of design. I really enjoy learning languages and frameworks like JavaScript and react, as well as node Js. I also like and enjoy wireframing, UI, UX and design in general.
 
 
 
-Skills:  React/JS / HTML / CSS/ Node js / Mongodb / Express Js / Markdown
+#Skills:  React/JS / HTML / CSS/ Node js / Mongodb / Express Js / Markdown
 
 
 
