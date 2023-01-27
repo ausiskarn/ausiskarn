@@ -1,6 +1,6 @@
 ### Hi there 👋, Aashish karn
 #### Design and Development
-![Design and Development](https://media.licdn.com/dms/image/D4E16AQFGZsEe4aQpAA/profile-displaybackgroundimage-shrink_350_1400/0/1674811641782?e=1680134400&v=beta&t=3VM7mMypZVW7Acf0IgIOiArdJyD2HYYoYcYVOJ4Fzv8)
+![Design and Development](https://github.com/ausiskarn/ausiskarn/blob/main/cc.png?raw=true)
 
  I am a full stack developer and also in field of design. I really enjoy learning languages and frameworks like JavaScript and react, as well as node Js. I also like and enjoy wireframing, UI, UX and design in general.
 
